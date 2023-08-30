@@ -1,0 +1,21 @@
+{
+  "name": "wireframe-dark",
+  "displayName": "Wireframe Dark",
+  "description": "Wireframe Dark Theme",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.81.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Wireframe Dark Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/theme-plus.json"
+      }
+    ]
+  }
+}
